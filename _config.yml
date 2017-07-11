@@ -1,0 +1,401 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-arrow_down_grey {
+    width: 20px;
+    height: 20px;
+    background-position: -5px -5px;
+}
+
+.sprite-arrow_down_grey_2x {
+    width: 20px;
+    height: 20px;
+    background-position: -35px -5px;
+}
+
+.sprite-arrow_icon {
+    width: 40px;
+    height: 40px;
+    background-position: -65px -5px;
+}
+
+.sprite-arrow_icon_2x {
+    width: 40px;
+    height: 40px;
+    background-position: -115px -5px;
+}
+
+.sprite-arrow_small_icon_2x {
+    width: 20px;
+    height: 20px;
+    background-position: -165px -5px;
+}
+
+.sprite-arrow_small_yellow_2x {
+    width: 20px;
+    height: 20px;
+    background-position: -195px -5px;
+}
+
+.sprite-arrow_up_blue {
+    width: 20px;
+    height: 20px;
+    background-position: -225px -5px;
+}
+
+.sprite-arrow_up_blue_2x {
+    width: 20px;
+    height: 20px;
+    background-position: -255px -5px;
+}
+
+.sprite-beijing_icon {
+    width: 80px;
+    height: 80px;
+    background-position: -285px -5px;
+}
+
+.sprite-calendar_blue_2x {
+    width: 30px;
+    height: 30px;
+    background-position: -375px -5px;
+}
+
+.sprite-calendar_icon_2x {
+    width: 40px;
+    height: 40px;
+    background-position: -415px -5px;
+}
+
+.sprite-chenggong_icon_2x {
+    width: 100px;
+    height: 100px;
+    background-position: -5px -55px;
+}
+
+.sprite-computer_icon_2x {
+    width: 24px;
+    height: 24px;
+    background-position: -115px -55px;
+}
+
+.sprite-daodian_icon {
+    width: 40px;
+    height: 40px;
+    background-position: -149px -55px;
+}
+
+.sprite-daodian_icon_grey {
+    width: 40px;
+    height: 40px;
+    background-position: -199px -55px;
+}
+
+.sprite-dingdanqueren_icon {
+    width: 40px;
+    height: 40px;
+    background-position: -375px -55px;
+}
+
+.sprite-dingdanqueren_icon_grey {
+    width: 40px;
+    height: 40px;
+    background-position: -425px -55px;
+}
+
+.sprite-dingdanzhongxin_icon_2x {
+    width: 36px;
+    height: 36px;
+    background-position: -115px -105px;
+}
+
+.sprite-gongshang_icon {
+    width: 80px;
+    height: 80px;
+    background-position: -161px -105px;
+}
+
+.sprite-guanbi_icon {
+    width: 30px;
+    height: 30px;
+    background-position: -251px -105px;
+}
+
+.sprite-guanbi_icon_2x {
+    width: 30px;
+    height: 30px;
+    background-position: -291px -105px;
+}
+
+.sprite-guanbi_icon_white {
+    width: 30px;
+    height: 30px;
+    background-position: -331px -105px;
+}
+
+.sprite-guangda_icon {
+    width: 80px;
+    height: 80px;
+    background-position: -371px -105px;
+}
+
+.sprite-guangfa_icon {
+    width: 80px;
+    height: 80px;
+    background-position: -5px -195px;
+}
+
+.sprite-help_icon {
+    width: 40px;
+    height: 40px;
+    background-position: -95px -195px;
+}
+
+.sprite-history_icon_2x {
+    width: 40px;
+    height: 40px;
+    background-position: -145px -195px;
+}
+
+.sprite-huaxia_icon {
+    width: 80px;
+    height: 80px;
+    background-position: -195px -195px;
+}
+
+.sprite-jianshe_icon {
+    width: 80px;
+    height: 80px;
+    background-position: -285px -195px;
+}
+
+.sprite-jiaotong_icon {
+    width: 80px;
+    height: 80px;
+    background-position: -375px -195px;
+}
+
+.sprite-lianxiren_icon {
+    width: 40px;
+    height: 40px;
+    background-position: -5px -285px;
+}
+
+.sprite-line_blue_long {
+    width: 150px;
+    height: 2px;
+    background-position: -55px -285px;
+}
+
+.sprite-line_blue_short {
+    width: 70px;
+    height: 2px;
+    background-position: -215px -285px;
+}
+
+.sprite-line_grey_long {
+    width: 150px;
+    height: 2px;
+    background-position: -295px -285px;
+}
+
+.sprite-line_grey_short {
+    width: 70px;
+    height: 2px;
+    background-position: -55px -297px;
+}
+
+.sprite-line_guodu_long {
+    width: 150px;
+    height: 2px;
+    background-position: -135px -297px;
+}
+
+.sprite-line_guodu_short {
+    width: 70px;
+    height: 2px;
+    background-position: -295px -297px;
+}
+
+.sprite-minsheng_icon {
+    width: 80px;
+    height: 80px;
+    background-position: -375px -297px;
+}
+
+.sprite-moren {
+    width: 80px;
+    height: 80px;
+    background-position: -5px -387px;
+}
+
+.sprite-nongye_icon {
+    width: 80px;
+    height: 80px;
+    background-position: -95px -387px;
+}
+
+.sprite-park_icon_2x {
+    width: 24px;
+    height: 24px;
+    background-position: -249px -55px;
+}
+
+.sprite-phone_icon_2x {
+    width: 40px;
+    height: 40px;
+    background-position: -185px -387px;
+}
+
+.sprite-position_icon_2x {
+    width: 40px;
+    height: 40px;
+    background-position: -235px -387px;
+}
+
+.sprite-pre {
+    width: 40px;
+    height: 40px;
+    background-position: -285px -387px;
+}
+
+.sprite-price_icon_2x {
+    width: 40px;
+    height: 40px;
+    background-position: -335px -387px;
+}
+
+.sprite-pufa_icon {
+    width: 80px;
+    height: 80px;
+    background-position: -385px -387px;
+}
+
+.sprite-return_icon_white_2x {
+    width: 32px;
+    height: 32px;
+    background-position: -465px -5px;
+}
+
+.sprite-search_icon_2x {
+    width: 40px;
+    height: 40px;
+    background-position: -475px -47px;
+}
+
+.sprite-search_keyword_icon_2x {
+    width: 40px;
+    height: 40px;
+    background-position: -475px -97px;
+}
+
+.sprite-selected_icon_2x {
+    width: 40px;
+    height: 40px;
+    background-position: -465px -147px;
+}
+
+.sprite-shanghai_icon {
+    width: 80px;
+    height: 80px;
+    background-position: -525px -5px;
+}
+
+.sprite-shanglv_icon_2x {
+    width: 36px;
+    height: 36px;
+    background-position: -525px -95px;
+}
+
+.sprite-share_icon_2x {
+    width: 40px;
+    height: 40px;
+    background-position: -571px -95px;
+}
+
+.sprite-star_grey_2x {
+    width: 24px;
+    height: 24px;
+    background-position: -251px -145px;
+}
+
+.sprite-star_half_2x {
+    width: 24px;
+    height: 24px;
+    background-position: -285px -145px;
+}
+
+.sprite-star_yellow_2x {
+    width: 24px;
+    height: 24px;
+    background-position: -319px -145px;
+}
+
+.sprite-tianxie_icon {
+    width: 40px;
+    height: 40px;
+    background-position: -525px -145px;
+}
+
+.sprite-tianxie_icon_grey {
+    width: 40px;
+    height: 40px;
+    background-position: -575px -145px;
+}
+
+.sprite-wifi_icon_2x {
+    width: 24px;
+    height: 24px;
+    background-position: -515px -195px;
+}
+
+.sprite-xingye_icon {
+    width: 80px;
+    height: 80px;
+    background-position: -465px -229px;
+}
+
+.sprite-yinhangka_icon {
+    width: 40px;
+    height: 40px;
+    background-position: -555px -195px;
+}
+
+.sprite-youzheng_icon {
+    width: 80px;
+    height: 80px;
+    background-position: -475px -319px;
+}
+
+.sprite-zhaoshang_icon {
+    width: 80px;
+    height: 80px;
+    background-position: -475px -409px;
+}
+
+.sprite-zhifu_icon {
+    width: 40px;
+    height: 40px;
+    background-position: -555px -245px;
+}
+
+.sprite-zhifu_icon_grey {
+    width: 40px;
+    height: 40px;
+    background-position: -565px -295px;
+}
+
+.sprite-zhongguo_icon {
+    width: 80px;
+    height: 80px;
+    background-position: -5px -499px;
+}
+
+.sprite-zhongxin_icon {
+    width: 80px;
+    height: 80px;
+    background-position: -95px -499px;
+}
